@@ -1,0 +1,16 @@
+% markdown, cli
+
+# Render markdown file
+inlyne --theme dark <file>
+
+$ file: find . -maxdepth 1 -name '*.md' -type f
+
+% cli, net, port, listening
+
+# Show processes listening on tcp ports
+netstat -ltep
+
+% cli, disk, space
+
+# Analyse disk space usage
+sudo dua i
